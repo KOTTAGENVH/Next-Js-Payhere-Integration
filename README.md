@@ -1,6 +1,6 @@
 # Next-Js-Payhere-Integration
 >>Payhere-next-demo
->In this the integration is being done just to bt using the npm package @https://www.npmjs.com/package/@payhere-js-sdk/client
+>In this the integration is being done using the npm package @https://www.npmjs.com/package/@payhere-js-sdk/client
 >>
 ><img width="651" alt="Screenshot 2024-04-26 at 23 13 34" src="https://github.com/KOTTAGENVH/Next-Js-Payhere-Integration/assets/87430226/d2635a60-e358-451c-8d8b-85fc8d06c665">
 
